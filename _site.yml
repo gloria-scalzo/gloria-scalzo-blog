@@ -14,5 +14,6 @@ navbar:
 base_url: http://gloria-scalzo.github.io/gloria-scalzo-blog/
 collections:
     posts:
+      disqus: gloria-scalzo-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
