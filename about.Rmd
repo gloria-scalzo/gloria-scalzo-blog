@@ -3,9 +3,9 @@ title: "About me"
 ---
 
 - Scalzo Gloria
+- 21 year old 
 - BAB2 Biology
 - Group 4 with Mr Devilez 
 
-This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+
