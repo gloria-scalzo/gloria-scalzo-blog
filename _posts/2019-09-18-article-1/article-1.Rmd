@@ -1,12 +1,12 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : "
 author:
-  - name: Nicolas Devilez
+  - name: Scalzo Gloria
 date: 09-18-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - Alzheimer 
+  - Disease
+preview: image/Image-cerveau.jpg
 output:
   distill::distill_article:
     self_contained: false

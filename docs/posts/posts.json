@@ -16,20 +16,20 @@
   },
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : ",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Scalzo Gloria",
         "url": {}
       }
     ],
     "date": "2019-09-18",
     "categories": [
-      "elephant",
-      "track"
+      "Alzheimer",
+      "Disease"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-09T18:26:21+02:00"
+    "preview": "posts/2019-09-18-article-1/image/Image-cerveau.jpg",
+    "last_modified": "2019-10-10T12:54:49+02:00"
   }
 ]
