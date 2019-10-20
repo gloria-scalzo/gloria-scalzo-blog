@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-09-18-article-1/",
+    "title": "Article 1 : AI could help diagnose and manage Alzheimer’s and predict heart attacks",
+    "description": {},
+    "author": [
+      {
+        "name": "Scalzo Gloria",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-18",
+    "categories": [
+      "Alzheimer",
+      "Disease",
+      "Artificial Intelligence"
+    ],
+    "preview": "posts/2019-09-18-article-1/image/Image-cerveau.jpg",
+    "last_modified": "2019-10-20T18:12:13+02:00"
+  },
+  {
     "path": "posts/2019-10-03-article-2/",
     "title": "article 2",
     "description": "A short description of the post.",
@@ -13,23 +32,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-10-09T18:26:21+02:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : ",
-    "description": {},
-    "author": [
-      {
-        "name": "Scalzo Gloria",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [
-      "Alzheimer",
-      "Disease"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/Image-cerveau.jpg",
-    "last_modified": "2019-10-10T12:54:49+02:00"
   }
 ]
