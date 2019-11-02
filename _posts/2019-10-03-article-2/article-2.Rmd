@@ -1,10 +1,13 @@
 ---
-title: "Article 2"
-description: |
-  A short description of the post.
+title: "Article 1 : Alzheimer's memory loss reversed by new head device using electromagnetic waves"
 author:
-  - name: Gloria Scalzo
-date: 10-03-2019
+  - name: Scalzo Gloria
+date: 10-31-2019
+categories:
+  - Alzheimer 
+  - Disease
+  - Electromagnetic waves
+preview: image/Capteurs.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -14,7 +17,36 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+![ [Credit: Journal of Alzheimer's disease](https://www.j-alz.com/content/alzheimer%E2%80%99s-memory-loss-reversed-new-head-device-using-electromagnetic-waves) ](image/Capteurs.jpg)
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Mild  | Not heavy |
+| Benchmark | Point used for the comparision  |
+| Radiofrequency range | radiofrequency interval |
+| Within a head cap | Inside a hat | 
+| Eluded | Escaped | 
+| Deleterious side effects | Harmfull secondary effect |
+| Thus far | Until now | 
+| Averaging  | The mean |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Not mentionned |
+| Published in?                | September 17, 2019                                                       |
+| General topic?               | A device using electromagnetics waves could enhance memory or reverse memory loss in Alzheimer's disease |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         | There is a new research related to this one to know if there are side effects in the long term treatment with the MemorEMTM device. This research take part on 150 subjects. If the trial is succesfull, then company will propose their device to the FDA for approval in the treatment of Alzheimer's disease.  |
+
+
+<https://www.j-alz.com/content/alzheimer%E2%80%99s-memory-loss-reversed-new-head-device-using-electromagnetic-waves>
+
 

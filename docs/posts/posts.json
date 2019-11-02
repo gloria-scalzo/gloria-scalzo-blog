@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-10-03-article-2/",
+    "title": "Article 1 : Alzheimer's memory loss reversed by new head device using electromagnetic waves",
+    "description": {},
+    "author": [
+      {
+        "name": "Scalzo Gloria",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-31",
+    "categories": [
+      "Alzheimer",
+      "Disease",
+      "Electromagnetic waves"
+    ],
+    "preview": "posts/2019-10-03-article-2/image/Capteurs.jpg",
+    "last_modified": "2019-11-02T15:26:33+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : AI could help diagnose and manage Alzheimer’s and predict heart attacks",
     "description": {},
@@ -17,20 +36,5 @@
     ],
     "preview": "posts/2019-09-18-article-1/image/Image-cerveau.jpg",
     "last_modified": "2019-10-20T18:17:18+02:00"
-  },
-  {
-    "path": "posts/2019-10-03-article-2/",
-    "title": "article 2",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Gloria Scalzo",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-09T18:26:21+02:00"
   }
 ]
