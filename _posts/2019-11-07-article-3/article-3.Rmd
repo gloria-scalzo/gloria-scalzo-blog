@@ -1,0 +1,48 @@
+---
+title: "Article 3 : Why some people are resistant to Alzheimer's"
+author:
+  - name: Scalzo Gloria
+date: 11-18-2019
+categories:
+  - Alzheimer 
+  - Disease
+  - Resistance
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Insights   | Idea |
+| Delay | Postpone |
+| Carry | Wear |
+| Kindred | Family | 
+| Hallmark | Mark | 
+
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | MGH News and Public Affairs|
+| Published in?                | November 4, 2019                                                       |
+| General topic?               | Resistance to Alzheimer's disease |
+| Procedure/what was examined? | Researchers have found that some king of gene variants may delay early-onset Alzheimer's disease in the population of poeple who carry genes that usualy cause AD in a young age. They found on only one patient two copies of a gene variation called APOE3ch. The other members of the patient's family did'nt have this gene variation in two copies and only 6 percent of his relative have one copy of the APOE3ch. The last ones develop AD symptoms at the age of 45. A CT of the patient's brain showed that there was not so much signs of neurodegeneration. The two mark of AD are amyloid beta deposits and tau tangles, the first one was really high in the patient's brain, but the other one was low. |
+| Conclusions/discovery?       | Researchers think that having two times the gene variation APOE3ch may delay early-onset AD because it may be able to limit tau pathology. An investigator said that we could now focus on resistance to Alzheimer's disease to treat patients instead of finding a way to avoid it. In fact APOE3ch may reduce the afinity of apolipoprotein (which is a protein involved in the metabolism of fat) for some king of sugar (HSPG) which are modulating the two mark of AD (amyloid beta and tau proteins). So, the artificial modulating of the link that bind APOE and HSPG could lead to a "treatment" for AD.  |
+| Remaining questions?         | There is no remaining questions |
+
+
+<https://news.harvard.edu/gazette/story/2019/11/gene-variant-may-help-protect-against-alzheimers-disease/>
+
+

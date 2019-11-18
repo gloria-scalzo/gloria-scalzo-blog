@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-11-07-article-3/",
+    "title": "Article 3 : Why some people are resistant to Alzheimer's",
+    "description": {},
+    "author": [
+      {
+        "name": "Scalzo Gloria",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-18",
+    "categories": [
+      "Alzheimer",
+      "Disease",
+      "Resistance"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-18T23:08:53+01:00"
+  },
+  {
     "path": "posts/2019-10-03-article-2/",
     "title": "Article 2 : Alzheimer's memory loss reversed by new head device using electromagnetic waves",
     "description": {},
