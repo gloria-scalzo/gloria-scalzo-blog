@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-12-02-article-4/",
+    "title": "Article 4 : Inflammation drives tau damage in Alzheimer's",
+    "description": {},
+    "author": [
+      {
+        "name": "Scalzo Gloria",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-02",
+    "categories": [
+      "Alzheimer",
+      "Disease",
+      "Inflammation"
+    ],
+    "preview": {},
+    "last_modified": "2019-12-02T23:32:58+01:00"
+  },
+  {
     "path": "posts/2019-11-07-article-3/",
     "title": "Article 3 : Why some people are resistant to Alzheimer's",
     "description": {},
@@ -35,7 +54,7 @@
       "Electromagnetic waves"
     ],
     "preview": "posts/2019-10-03-article-2/image/Capteurs.jpg",
-    "last_modified": "2019-11-02T17:41:06+01:00"
+    "last_modified": "2019-12-02T13:54:22+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
