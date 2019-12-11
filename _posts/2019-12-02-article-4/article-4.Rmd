@@ -7,7 +7,7 @@ categories:
   - Alzheimer 
   - Disease
   - Inflammation
-preview: image/Scan.jpg
+preview: image/cerveau.png
 output:
   distill::distill_article:
     self_contained: false
@@ -17,8 +17,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![ [Credit: Medical News Today ](https://www.medicalnewstoday.com/articles/327107.php#1) ](image/Scan.jpg)
 
+![[ Credit: Medical News Today](https://www.medicalnewstoday.com/articles/327107.php#1) ](image/cerveau.png)
 
 ## Vocabulary 
 
