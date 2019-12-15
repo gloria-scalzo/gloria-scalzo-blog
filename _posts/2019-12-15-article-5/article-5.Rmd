@@ -1,0 +1,54 @@
+---
+title: "Article 5 : In Alzheimer's research, MIT scientists reveal brain rhythm role"
+author:
+  - name: Scalzo Gloria
+date: 12-15-2019
+categories:
+  - Alzheimer 
+  - Disease
+  - GENUS
+preview: image/confernce.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![[ Credit: The Picower Institute for learning and memory ](https://picower.mit.edu/news/alzheimers-research-mit-scientists-reveal-brain-rhythm-role) ](image/conference.png)
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| To stem | To slow down |
+| To strengthen | To enhance |
+| Eager| Impatient |
+| Buildup | Accumulation  | 
+| Sight | Eyeiew | 
+| Telltale | Witness |
+| To exert | Exercise  | 
+| To acknowledges | To admit |
+| Whether | If | 
+| Mere | Only | 
+| Amid | Among |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | MIT neuroscientist *Li-Huei Tsai* and her team |
+| Published in?                | October 22, 2019                                                       |
+| General topic?               | How GENUS can influence brain rhythm |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         | There is no remaining questions |
+
+<https://picower.mit.edu/news/alzheimers-research-mit-scientists-reveal-brain-rhythm-role>
+
+
