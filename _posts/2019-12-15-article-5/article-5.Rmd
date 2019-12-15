@@ -7,7 +7,7 @@ categories:
   - Alzheimer 
   - Disease
   - GENUS
-preview: image/confernce.png
+preview: image/conference.png
 output:
   distill::distill_article:
     self_contained: false
@@ -16,7 +16,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
 
 ![[ Credit: The Picower Institute for learning and memory ](https://picower.mit.edu/news/alzheimers-research-mit-scientists-reveal-brain-rhythm-role) ](image/conference.png)
 
@@ -45,8 +44,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | MIT neuroscientist *Li-Huei Tsai* and her team |
 | Published in?                | October 22, 2019                                                       |
 | General topic?               | How GENUS can influence brain rhythm |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
+| Procedure/what was examined? | Neuroscientists of the MIT discovered that Gamma Entrainment Using Sensory stimuli (GENUS) could improve our knowleges of the brain and may be a treatment in alzheimer's disease. GENUS is a proceed using flickering light and sound stimuli. Researches on mice affected with the alzheimer's diseaese demonstrated that the accumulation of amyloid and tau proteins in the visual cortex have significantly decreased with a one hour/day exposition for a week to a 40 Hz light flickering.  After that, they found that sound stimulation affects the hippocampus as well as the auditory cortex. The hippocampus is the region of the brain for learning and memory.   |
+| Conclusions/discovery?       | It appears that mice under GENUS treatment did better memory tests than control mice. An other trial proved that mice affected with the alzheimer's that were under GENUS for three to six weeks had an improve of memory. Their neurons died in smaller quantities and were making more synapses than the controls. Following the results, Li-Huei Tsai explained that a longer exposal to GENUS could really slow down the accumulation of amyloid and tau proteins in the cortex. The lab then started a human trial and Tsai showed some preliminary results that indicated an increase of gamma rhythm in the brain of healthy people. On an other side, the team also worked on how the brain rhythm can affects the work of the brain. It appears that an exposal to GENUS causes changes in neurons, microglia and brain's vasculature. The Alzheimer affected mice have a slower transport of biochemical information, but with GENUS, this function improved. They put forwads the same effects in micriglial cells, it released less inflammatory markers. An other recent study showed that an audio stimulation with genius bind amyloid proteins with an other protein which goes to the vessels, and so, out of the brain. It could be the way to rid the brain of amyloid proteins. |
 | Remaining questions?         | There is no remaining questions |
 
 <https://picower.mit.edu/news/alzheimers-research-mit-scientists-reveal-brain-rhythm-role>
