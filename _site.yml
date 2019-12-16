@@ -1,7 +1,9 @@
 name: "blog-template"
 title: "Gloria's Blog"
 output_dir: "docs"
+favicon: "image/logo-cerveau.png"
 navbar:
+  logo: "image/logo-cerveau.png"
   right:
     - text: "Home"
       href: index.html
@@ -16,4 +18,6 @@ collections:
     posts:
       disqus: gloria-scalzo-blog
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
+output:
+  distill::distill_article:
+    css: styles.css
