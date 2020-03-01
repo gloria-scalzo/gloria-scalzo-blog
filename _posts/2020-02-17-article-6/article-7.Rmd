@@ -23,9 +23,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| To stave off | To Avoid |
-| To assess | To evaluate  | 
-| Remote | Distant | 
+| Sticky | Gluey |
+| Stained | Coloured | 
 
 
 
@@ -33,11 +32,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
+| Researchers                  | Researchers from Tokyo Medical and Dental University in Japan |
 | Published in?                | February 26, 2020                                                       |
-| General topic?               | The influence of lithium in Alzheimer's disease |
-| Procedure/what was examined? | First, they found that microdose of Lithium improved early signs of Alzheimer's in rodents. After that, they asked themselves if these microdose of Lithium could also have effects on rodents that already present beta amyloid plaques. Thus they made a trial on rats at an advanced stage of the disease. Microdose of Lithium were given to the rats for 12 weeks and researchers made several tests on their brain. The microdose of Lithium was called NP03. |
-| Conclusions/discovery?       | The results were good. It appears that beta-amyloid was in less quantity in the cortex, NP03 helped to go back in object recognition deficience and "reduces the number of plaques in the brain's hippocampus". |
+| General topic?               | The influence of a protein in neuronal death |
+| Procedure/what was examined? | The researchers worked on patients with "mild cognitive impairment" or MCI to try to have a better comprenhension of Alzheimer's. MCI is often diagnosed in old people who have predisposition to alzheimer's disease and is light loss of memories like forgetting the noun of items or people. 
+|
+| Conclusions/discovery?       |  |
 | Remaining questions?         | Researchers hope that these trials will soon take place in human population.  |
 
 <https://www.medicalnewstoday.com/articles/scientists-find-new-way-to-save-neurons-in-alzheimers-disease>
