@@ -16,9 +16,30 @@
       "Lithium"
     ],
     "preview": "posts/2020-02-17-article-6/image/cerveau.png",
-    "last_modified": "2020-02-17T22:09:39+01:00",
-    "preview_width": 702,
-    "preview_height": 469
+    "last_modified": "2020-03-01T19:25:58+01:00",
+    "preview_width": 750,
+    "preview_height": 501
+  },
+  {
+    "path": "posts/2020-03-02-article-7/",
+    "title": "Article 7 : Scientists find new way to save neurons in Alzheimer’s disease",
+    "description": {},
+    "author": [
+      {
+        "name": "Scalzo Gloria",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-17",
+    "categories": [
+      "Alzheimer",
+      "Disease",
+      "Neurons"
+    ],
+    "preview": "posts/2020-03-02-article-7/image/vieux.png",
+    "last_modified": "2020-03-01T19:21:47+01:00",
+    "preview_width": 750,
+    "preview_height": 501
   },
   {
     "path": "posts/2019-12-15-article-5/",

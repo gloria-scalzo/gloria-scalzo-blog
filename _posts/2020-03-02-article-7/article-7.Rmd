@@ -1,0 +1,45 @@
+---
+title: "Article 7 : Scientists find new way to save neurons in Alzheimer’s disease"
+author:
+  - name: Scalzo Gloria
+date: 02-17-2020
+categories:
+  - Alzheimer 
+  - Disease
+  - Neurons
+preview: image/vieux.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![[ Credit: Medical News Today ](https://www.medicalnewstoday.com/articles/scientists-find-new-way-to-save-neurons-in-alzheimers-disease) ](image/vieux.png)
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| To stave off | To Avoid |
+| To assess | To evaluate  | 
+| Remote | Distant | 
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                | February 26, 2020                                                       |
+| General topic?               | The influence of lithium in Alzheimer's disease |
+| Procedure/what was examined? | First, they found that microdose of Lithium improved early signs of Alzheimer's in rodents. After that, they asked themselves if these microdose of Lithium could also have effects on rodents that already present beta amyloid plaques. Thus they made a trial on rats at an advanced stage of the disease. Microdose of Lithium were given to the rats for 12 weeks and researchers made several tests on their brain. The microdose of Lithium was called NP03. |
+| Conclusions/discovery?       | The results were good. It appears that beta-amyloid was in less quantity in the cortex, NP03 helped to go back in object recognition deficience and "reduces the number of plaques in the brain's hippocampus". |
+| Remaining questions?         | Researchers hope that these trials will soon take place in human population.  |
+
+<https://www.medicalnewstoday.com/articles/scientists-find-new-way-to-save-neurons-in-alzheimers-disease>
+
+
