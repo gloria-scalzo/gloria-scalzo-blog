@@ -35,9 +35,14 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | Researchers from Tokyo Medical and Dental University in Japan |
 | Published in?                | February 26, 2020                                                       |
 | General topic?               | The influence of a protein in neuronal death |
-| Procedure/what was examined? | The researchers worked on patients with "mild cognitive impairment" or MCI to try to have a better comprenhension of Alzheimer's. MCI is often diagnosed in old people who have predisposition to alzheimer's disease and is light loss of memories like forgetting the noun of items or people. 
+| Procedure/what was examined? | The researchers worked on patients with "mild cognitive impairment" or MCI to try to have a better comprenhension of Alzheimer's. MCI is often diagnosed in old people who have predispositions to alzheimer's disease and is light loss of memory like forgetting the names of items or people. Research team believe that this trouble could be a start in the comprehension of the role of neurons in Alzheimer's. In this research, they started mesuring the death of neurons in mice with alzheimer and then in human subjects with AD and MCI. They used a protein, the HMGB1, to see how much neurons died, indeed, when a neurons dies, it release this protein, thus the more HMGB1 there is, the more neurons have died. 
+
+To have an idea in real time of neuronal death, the researchers used a new test with a biomarker, pSer46-MARCKS, which detect neuronal death at different stages. 
 |
-| Conclusions/discovery?       |  |
+| Conclusions/discovery?       | It appears that the rate of death neurons in MCI patients was higher than in Alzheimer's patients, therefore neurons dies in mass in the very beginning of memory loss disease. 
+In addition, they have linked a protein called YAP to neuronal death. This protein was present in less quantity in people with MCI than in people with alzheimer's. In fact, in patients with Alzheimer's, the YAP protein are stuck in clumps of beta-amyloid, which are the most well known cause of Alzheimer's disease. The fact that YAP is stuck in clumps explains that neurons dies less in patients with Alzheimer's, because it is trapped and it can't act on neurons. The conclusion they made is that the YAP protein may be essential to the live of neurons.
+These findings led to a gene therapy on mice, to reproduce the missing YAP proteins. Neurons have stopped dying, memory had improved and beta-amyloid were not forming anymore. 
+Research team think that these new findings and methods may improve the quality of diagnosis |
 | Remaining questions?         | Researchers hope that these trials will soon take place in human population.  |
 
 <https://www.medicalnewstoday.com/articles/scientists-find-new-way-to-save-neurons-in-alzheimers-disease>
