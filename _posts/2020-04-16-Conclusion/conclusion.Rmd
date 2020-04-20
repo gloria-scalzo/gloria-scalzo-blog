@@ -18,11 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-To conclude this work, I will say that I have learned much more than I thought I would. 
-I know now that the cause of Alzheimer’s disease are beta amyloid deposits and accumulation of tau proteins in the brain, but scientists do not know yet why these aggregates are forming.
+To conclude this work, I will say that I have learned much more than I thought I would.
 
-The fact that surprised me the most is that there are very much studies all over the world to know why the deposits of beta amyloid and tau proteins are forming, and also many studies to know how to stop Alzheimer’s disease from advancing, to prevent the apparition of the disease and even make a throwback in time to recover all the memories lost because of the disease. 
+I know now that the causes of Alzheimer’s disease are beta amyloid deposits and accumulation of tau proteins in the brain, but scientists do not know yet why these aggregates are forming.
+
+The fact that surprised me the most is that there are many studies all over the world to know why the deposits of beta amyloid and tau proteins are forming, and also many studies to know how to stop Alzheimer’s disease from advancing, to prevent the apparition of the disease and even make a throwback in time to recover all the memories lost because of the disease.
 
 I would say that I have no doubts a cure to Alzheimer’s disease will be find in the next decades with all these research in the entire world.
-
 This work comfort me in my idea to choose the neurosciences lab for my masters because I find the brain fascinating and having the opportunity to learn about it in our university is a privilege.

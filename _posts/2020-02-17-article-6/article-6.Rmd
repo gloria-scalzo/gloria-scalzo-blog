@@ -36,9 +36,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | Dr. Claudio Cuello and his research team at McGill University |
 | Published in?                | February 10, 2020                                                       |
 | General topic?               | The influence of lithium in Alzheimer's disease |
-| Procedure/what was examined? | First, they found that microdose of Lithium improved early signs of Alzheimer's in rodents. After that, they asked themselves if these microdose of Lithium could also have effects on rodents that already present beta amyloid plaques. Thus they made a trial on rats at an advanced stage of the disease. Microdose of Lithium were given to the rats for 12 weeks and researchers made several tests on their brain. The microdose of Lithium was called NP03. |
-| Conclusions/discovery?       | The results were good. It appears that beta-amyloid was in less quantity in the cortex, NP03 helped to go back in object recognition deficience and "reduces the number of plaques in the brain's hippocampus". |
-| Remaining questions?         | Researchers hope that these trials will soon take place in human population.  |
+| Procedure/what was examined? | First, they found that microdose of Lithium improved early signs of Alzheimer’s in rodents. After that, they asked themselves if these microdose of Lithium could also have effects on rodents that already present beta amyloid plaques. Thus, they made a trial on rats at an advanced stage of the disease. Microdose of Lithium were given to the rats for 12 weeks and researchers made several tests on their brain. The microdose of Lithium was called NP03. |
+| Conclusions/discovery?       | The results were good. It appears that beta-amyloid was in less quantity in the cortex, NP03 helped to go back in object recognition deficiency and "reduces the number of plaques in the brain’s hippocampus". |
+| Remaining questions?         | Researchers hope that these trials will soon take place in human population. |
 
 <https://www.medicalnewstoday.com/articles/can-lithium-halt-progression-of-alzheimers-disease>
 

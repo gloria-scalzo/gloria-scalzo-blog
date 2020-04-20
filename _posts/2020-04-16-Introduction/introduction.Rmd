@@ -20,16 +20,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Alzheimer’s disease, what is it?
 
-Alzheimer’s disease is a neurodegenerative disease of the brain. This disease comes with loss of memory and is the most common cause of dementia in the world. (For now, the disease is still not curable but many scientists are doing the best they can all over the world to try to find a cure, or at least, avoid the progression of the disease in people who already have it. 
+Alzheimer’s disease is a neurodegenerative disease of the brain. This disease comes with loss of memory and is the most common cause of dementia in the world.
+For now, the disease is still not curable but many scientists are doing the best they can all over the world to try to find a cure, or at least, avoid the progression of the disease in people who already have it.
+The first symptom is pretty much every time the loss of memories. First it is the short-term memory that is attacked, for example, forgetting the place where you put your keys, or forgetting to cut off the gas in kitchen when you have finish cooking, which is much more dangerous than forgetting the place you put your keys.
 
-The first symptom is pretty much every time the loss of memories. First it is the short-term memory that is attacked, for example, forgetting the place where you put your keys, or forgetting to cut off the gas in kitchen when you have finish cooking, which is much more dangerous than forgetting the place you put your keys. (The more the disease progress, the more ancient memories will be affected, patients will start forgetting they have a dog, then that they have children, even they are married. After all these symptoms, death is not far away. 
+The more the disease progress, the more ancient memories will be affected, patients will start forgetting they have a dog, then that they have children, even they are married. After all these symptoms, death is not far away.
 
-Scientists know that the cause of Alzheimer’s disease is beta-amyloid deposits and neurofibrillary degeneration, which are respectively caused by amyloid protein and tau protein. The reason the aggregates are forming is still unknown, but it seems like age, genetic and environmental factors could play a role in their occurrence. (
-The diagnosis of the disease is based on interrogatory, neuropsychologist tests and brain scan. There is no treatment yet, but doctors can still provide palliative cares to the patients at the end of their life. 
+Scientists know that the cause of Alzheimer’s disease is beta-amyloid deposits and neurofibrillary degeneration, which are respectively caused by amyloid protein and tau protein. The reason the aggregates are forming is still unknown, but it seems like age, genetic and environmental factors could play a role in their occurrence.
+The diagnosis of the disease is based on interrogatory, neuropsychologist tests and brain scan. There is no treatment yet, but doctors can still provide palliative cares to the patients at the end of their life.
 
-Why did I choose this subject ? 
 
-Since many years, I want to become a scientist, but my initial goal was to be a doctor. Finally, it was not for me, and I chose to study biology. I think that, for now, we know practically nothing of the brain, and there is so many things to be discovered about it. I chose Alzheimer’s disease because it is one of the most well-known disease of the brain and it is one of the main subjects of the neurosciences lab at UMONS, and this service is one of the three I may choose for my master. 
+Why did I choose this subject ?
 
+Since many years, I want to become a scientist, but my initial goal was to be a doctor. Finally, it was not for me, and I chose to study biology. I think that, for now, we know practically nothing of the brain, and there is so many things to be discovered about it. I chose Alzheimer’s disease because it is one of the most well-known disease of the brain and it is one of the main subjects of the neurosciences lab at UMONS, and this service is one of the three I may choose for my master.
 
 
