@@ -2,7 +2,7 @@
 title: "Article 8 : Discovery of new biomarker in blood could lead to early test for Alzheimer's disease"
 author:
   - name: Scalzo Gloria
-date: 04-16-2020
+date: 04-15-2020
 categories:
   - Alzheimer 
   - Disease
@@ -35,12 +35,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Researchers from the University of Calfornia San Diego |
+| Researchers                  | Researchers from the University of California San Diego |
 | Published in?                | March 31, 2020                                                       |
 | General topic?               | Early diagnose of Alzheimer's Disease with a biomarker |
-| Procedure/what was examined? | A gene called PHGDH produces RNA and proteins in a large amount in children and adolescents, but in older people, the production decrease. The research suggests that the overproduction of the extracellular RNA (exRNA) produced by PHGDH in the senior may help on an early-onset diagnosis of Alzheimer's disease. Reaserchers invented a new method, called SILVER-SEQ, that allows the analysis of this RNA in blood. The clinical trial shows that in poeple initially healthy and who developed Alzheimer's later (they are called the converters), the amount of extracellular RNA increased two years before they got diagnosed. One of the control subjects got classified as a converter because his amount of exRNA incresed.  |
-| Conclusions/discovery?       | The trial isn't a randomized one, in the next years, this trial will probably be randomized to get a verified blood test and detect Alzheimer's on an early-ont stage. This trial comfort the researchers in the fact that a biomarker (the exRNA) could lead to a predicting development of Alzheimer's.    |
-| Remaining questions?         | They hope their results will be reproductable in a randomized trial.  |
+| Procedure/what was examined? | A gene called PHGDH produces RNA and proteins in a large amount in children and adolescents, but in older people, the production decrease. The research suggests that the overproduction of the extracellular RNA (exRNA) produced by PHGDH in the senior may help on an early-onset diagnosis of Alzheimer’s disease. Researchers invented a new method, called SILVER-SEQ, that allows the analysis of this RNA in blood. The clinical trial shows that in people initially healthy and who developed Alzheimer’s later (they are called the converters), the amount of extracellular RNA increased two years before they got diagnosed. One of the control subjects got classified as a converter because his amount of exRNA increased. |
+| Conclusions/discovery?       | The trial isn’t a randomized one, in the next years, this trial will probably be randomized to get a verified blood test and detect Alzheimer’s on an early-onsett stage. This trial comfort the researchers in the fact that a biomarker (the exRNA) could lead to a predicting development of Alzheimer’s. |
+| Remaining questions?         | They hope their results will be reproducible in a randomized trial. |
 
 <https://www.medicalnewstoday.com/articles/scientists-find-new-way-to-save-neurons-in-alzheimers-disease>
 
